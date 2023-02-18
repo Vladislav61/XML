@@ -1,22 +1,22 @@
-<bag>
-  <Issue Title>Pop-up window does not disappear until the date is not changed
-  "Issue Tipe": "Bug",
-  "Priority": "Low",
-  "Inssue Status": "Blocked",
-  "Author": "Trinkov Vladislav",
-  "Severity":
-  "Build":
-  "Environment":
+      <bag>
+  <Issue Title>Pop-up window does not disappear until the date is not changed</Issue Title>
+  <Issue Tipe>Bug</Issue Tipe>
+  <Priority>Low</Priority>
+  <Inssue Status>Blocked</Inssue Status>
+  <Author>Trinkov Vladislav</Author>
+  <Severity></Severity>
+  <Build></Build>
+  <Environment></Environment>
   
-  "Inssue Description", 
-  "Steps to reproduce": {
-          "1": "Select any dish",
-          "2": "Go to the basket",
-          "3": "Select a date next to the last delivery date in the menu",
-          "4": "After the pop-up 'Delivery up to' appears, click on the 'Change a dte' button",
-          "5": "Look at the pop-up",
-
-}
- "Expected result": "The pop-up 'Deliveru up to' does not appear",
- "Actual result": "The pop-up remains unil the date is not changed to the suitable one"
-    </bag>
+<Inssue Description>
+   <Steps to reproduce>
+          <one>Select any dish</one>
+          <two>Go to the basket</two>
+          <theree>Select a date next to the last delivery date in the menu</theree>
+          <four>After the pop-up 'Delivery up to' appears, click on the 'Change a dte' button</four>
+          <fife>Look at the pop-up</fife>
+   </Steps to reproduce>
+</Inssue Description>
+   <Expected result>The pop-up 'Deliveru up to' does not appear</Expected result>
+   <Actual result>The pop-up remains unil the date is not changed to the suitable one</Actual result>
+      </bag>
