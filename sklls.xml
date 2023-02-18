@@ -1,0 +1,29 @@
+<Skills>
+  <one>Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</one>
+  <two>What is a client-server architecture</two>
+  <there>HTTP Methods of requests to the server</there>
+  <four>HTTP server response codes</four>
+  <five>Structures of HTTP requests and responses</five>
+  <six>What is JSON, XML. Their structure</six>
+  <seven>API testing via Postman (JS, API autotests)</seven>
+  <eight>Removing and reading logs from an external server</eight>
+  <nine>Sniffing http web traffic via Charles and Fiddler</nine>
+  <ten>Dev Tools of web browsers (Google Chrome, FireFox)</ten>
+  <eleven>VPN. (How it works, why you need it, how to use it, tool options)</eleven>
+  <twelwe>Mobile testing</twelwe>
+  <thirteen>Feature iOS, Android,guidelines</therteen>
+  <fourteen>Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</fourteen>
+  <fifteen>Building Android applications on Android Studio</fifteen>
+  <sixteen>ADB(android device management)</sixteen>
+  <seventeen>Setting up proxy and vpn on iOS and Android</seventeen>
+  <eighteen>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</eighteen>
+  <nineteen>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</nineteen>
+  <twenty>Basics of bash scriping, automation of routine tasks on the server</twenty>
+  <twenty one>Access to remote servers</twenty one>
+  <twenty two>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</twenty two>
+  <twenty theree>Postgres database(installation, configuration and use)</twenty theree>
+  <twenty four>Non-relational database Redis (installation, configuration and use)</twenty four>
+  <twenty five>Load testing in Jmeter</twenty five>
+  <twenty six>Scrum development methodology</twenty six>
+  <twenty seven>Python. (Learning the basics. Creating a client-server application)</twenty seven>
+</Skills>
